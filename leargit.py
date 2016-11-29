@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-master1 learn
+push to remote master1 learn
 =======
 11learn
 >>>>>>> feature
