@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hello world dev1
-=======
-hello world dev2
->>>>>>> b57f62b3ac3f812f4ec7dd648decdb530587e0e4
+hello world master
